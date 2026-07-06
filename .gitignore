@@ -1,2 +1,4 @@
 output-seo.json
 node_modules/
+
+.idea/
